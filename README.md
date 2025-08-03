@@ -2,8 +2,8 @@
 
 > 参考 `Happy LLM` 项目: https://datawhalechina.github.io/happy-llm/#/./README
 
-- [ ] `Chapter1` `NLP` 基础概念
-- [ ] `Chapter2` `Transformer` 架构
+- [x] `Chapter1` `NLP` 基础概念
+- [x] `Chapter2` `Transformer` 架构
 - [ ] `Chapter3` 预训练语言模型
 - [ ] `Chapter4` 大语言模型
 - [ ] `Chapter5` 动手搭建大模型
